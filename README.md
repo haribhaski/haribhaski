@@ -3,26 +3,22 @@
 ```
 AI_ENGINEER · ML_RESEARCHER · DATA_SCIENCE
 ```
-
-> I build systems that learn. Specialising in LLMs, deep learning, and turning messy real-world data into things that actually work.
+> I design and build AI systems across the full stack — from data pipelines and distributed training to deployment and real-time inference.  
+> My projects include retrieval systems, multi-agent architectures, and cross-dataset learning, with an emphasis on robustness and scalability.  
+> I’m particularly interested in how systems behave outside controlled environment, and how to make them reliable in real-world scenario.
 
 <br/>
 
 ---
 
 ### `01` — live stats
-
 <div align="center">
 
-<!--
-  NOTE: github-readme-stats public Vercel instance rate-limits heavily.
-  Using the ?cache_seconds=1 param forces a fresh fetch each time.
-  If it still breaks for you, self-host: https://github.com/anuraghazra/github-readme-stats
--->
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=haribhaski&show_icons=true&hide_border=true&bg_color=0c0c0c&title_color=b8ff00&icon_color=b8ff00&text_color=666666&count_private=true&include_all_commits=true&rank_icon=github" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=haribhaski&show_icons=true&hide_border=true&bg_color=0c0c0c&title_color=b8ff00&icon_color=b8ff00&text_color=666666&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=1800" />
 &nbsp;
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haribhaski&layout=compact&hide_border=true&bg_color=0c0c0c&title_color=b8ff00&text_color=666666&langs_count=8&cache_seconds=1800" />
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=haribhaski&layout=compact&hide_border=true&bg_color=0c0c0c&title_color=b8ff00&text_color=666666&langs_count=8" />
 
 </div>
 
