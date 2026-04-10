@@ -12,15 +12,6 @@ AI_ENGINEER · ML_RESEARCHER · DATA_SCIENCE
 ---
 
 ### `01` — live stats
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=haribhaski&show_icons=true&hide_border=true&bg_color=0c0c0c&title_color=b8ff00&icon_color=b8ff00&text_color=666666&count_private=true&include_all_commits=true&rank_icon=github" />
-
-&nbsp;
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=haribhaski&layout=compact&hide_border=true&bg_color=0c0c0c&title_color=b8ff00&text_color=666666&langs_count=8" />
-
-</div>
 
 <div align="center">
 
@@ -78,26 +69,10 @@ AI_ENGINEER · ML_RESEARCHER · DATA_SCIENCE
 
 <br/>
 
----
-
-### `04` — trophies
-
-<div align="center">
-
-<!--
-  Using the volunteer-hosted mirror (kann4n) for better uptime than the main instance.
-  If this goes down too, swap the domain to: https://github-profile-trophy-liard-delta.vercel.app
--->
-
-<img src="https://github-profile-trophy.vercel.app/?username=haribhaski&theme=darkhub&no-frame=true&no-bg=true&column=6&margin-w=8&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
-
-</div>
-
-<br/>
 
 ---
 
-### `06` — connect
+### `04` — connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0c0c0c?style=for-the-badge&logo=linkedin&logoColor=b8ff00)](https://linkedin.com/in/hariharanbhaskaran28)
 [![Email](https://img.shields.io/badge/Email-0c0c0c?style=for-the-badge&logo=gmail&logoColor=b8ff00)](mailto:haribhaski@gmail.com)
