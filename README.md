@@ -3,7 +3,7 @@
 
 # Hariharan Bhaskaran
 
-### AI Engineer · Applied ML · LLM Systems
+### AI/ML · Data Engineering · Software Engineering
 
 **Building AI systems that go beyond demos.**
 
