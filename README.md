@@ -8,16 +8,19 @@
 **Building AI systems that go beyond demos.**
 
 
-
-
-<a href="https://www.linkedin.com/in/hariharanbhaskaran28/">
-  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg"
-       width="35"
-       height="35"
-       alt="LinkedIn"/>
-</a>
-[![Email](https://img.shields.io/badge/Email-0c0c0c?style=for-the-badge&logo=gmail&logoColor=b8ff00)](mailto:haribhaski@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0c0c0c?style=for-the-badge&logo=github&logoColor=b8ff00)](https://github.com/haribhaski)
+<div align="center">
+  <a href="https://www.linkedin.com/in/hariharanbhaskaran28/">
+    <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" width="35" height="35" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:haribhaski@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0c0c0c?style=for-the-badge&amp;logo=gmail&amp;logoColor=b8ff00" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/haribhaski">
+    <img src="https://img.shields.io/badge/GitHub-0c0c0c?style=for-the-badge&amp;logo=github&amp;logoColor=b8ff00" alt="GitHub"/>
+  </a>
+</div>
 
 </div>
 
