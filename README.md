@@ -40,10 +40,10 @@ I'm particularly interested in what happens when AI systems
 leave controlled environments: how they fail, how we measure
 those failures, and how we make them more reliable.
 
-- 🔬 Exploring **LLM memory architectures and retrieval**
-- ⚙️ Building **agentic systems and production-oriented AI**
-- 📄 Published research in **cross-dataset intrusion detection**
-- 🎯 Interested in **AI/ML Engineering and Applied AI roles**
+-  Exploring **LLM memory architectures and retrieval**
+-  Building **agentic systems and production-oriented AI**
+-  Published research in **cross-dataset intrusion detection**
+-  Interested in **AI/ML Engineering and Applied AI roles**
 
 ---
 
