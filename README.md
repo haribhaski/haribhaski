@@ -8,11 +8,11 @@
 **Building AI systems that go beyond demos.**
 
 <a href="https://www.linkedin.com/in/hariharanbhaskaran28/">
-  <img src="https://cdn.simpleicons.org/linkedin/b8ff00"
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg"
        alt="LinkedIn"
-       height="30"/>
+       width="30"
+       height="30">
 </a>
-
 [![Email](https://img.shields.io/badge/Email-0c0c0c?style=for-the-badge&logo=gmail&logoColor=b8ff00)](mailto:haribhaski@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-0c0c0c?style=for-the-badge&logo=github&logoColor=b8ff00)](https://github.com/haribhaski)
 
