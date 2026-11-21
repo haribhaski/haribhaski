@@ -119,32 +119,48 @@ based on the MAPE-K control-loop architecture.
 
 ---
 
+
 ### `03` — technical stack
 
-**AI / ML**
+**01 / Languages**
 
 ![Python](https://img.shields.io/badge/Python-0c0c0c?style=flat-square&logo=python&logoColor=b8ff00)
+![C++](https://img.shields.io/badge/C++-0c0c0c?style=flat-square&logo=cplusplus&logoColor=b8ff00)
+![Java](https://img.shields.io/badge/Java-0c0c0c?style=flat-square&logoColor=b8ff00)
+![SQL](https://img.shields.io/badge/SQL-0c0c0c?style=flat-square&logo=postgresql&logoColor=b8ff00)
+
+**02 / AI, ML & LLMs**
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-0c0c0c?style=flat-square&logo=pytorch&logoColor=b8ff00)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0c0c0c?style=flat-square&logo=tensorflow&logoColor=b8ff00)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-0c0c0c?style=flat-square&logo=huggingface&logoColor=b8ff00)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-0c0c0c?style=flat-square&logo=scikitlearn&logoColor=b8ff00)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0c0c0c?style=flat-square&logo=scikitlearn&logoColor=b8ff00)
 ![LangChain](https://img.shields.io/badge/LangChain-0c0c0c?style=flat-square&logo=langchain&logoColor=b8ff00)
+![LangGraph](https://img.shields.io/badge/LangGraph-0c0c0c?style=flat-square&logo=langgraph&logoColor=b8ff00)
+![OpenCV](https://img.shields.io/badge/OpenCV-0c0c0c?style=flat-square&logo=opencv&logoColor=b8ff00)
 
-**Backend / Data**
+**03 / Big Data & Databases**
 
-![FastAPI](https://img.shields.io/badge/FastAPI-0c0c0c?style=flat-square&logo=fastapi&logoColor=b8ff00)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-0c0c0c?style=flat-square&logo=apachespark&logoColor=b8ff00)
-![Kafka](https://img.shields.io/badge/Kafka-0c0c0c?style=flat-square&logo=apachekafka&logoColor=b8ff00)
+![Apache Hadoop](https://img.shields.io/badge/Apache_Hadoop-0c0c0c?style=flat-square&logo=apachehadoop&logoColor=b8ff00)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-0c0c0c?style=flat-square&logo=apachekafka&logoColor=b8ff00)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0c0c0c?style=flat-square&logo=postgresql&logoColor=b8ff00)
 ![Neo4j](https://img.shields.io/badge/Neo4j-0c0c0c?style=flat-square&logo=neo4j&logoColor=b8ff00)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-0c0c0c?style=flat-square&logoColor=b8ff00)
 
-**Engineering**
+**04 / Backend, Cloud & DevOps**
 
+![FastAPI](https://img.shields.io/badge/FastAPI-0c0c0c?style=flat-square&logo=fastapi&logoColor=b8ff00)
+![Node.js](https://img.shields.io/badge/Node.js-0c0c0c?style=flat-square&logo=nodedotjs&logoColor=b8ff00)
 ![Docker](https://img.shields.io/badge/Docker-0c0c0c?style=flat-square&logo=docker&logoColor=b8ff00)
+![AWS](https://img.shields.io/badge/AWS-0c0c0c?style=flat-square&logoColor=b8ff00)
+![Azure](https://img.shields.io/badge/Azure-0c0c0c?style=flat-square&logoColor=b8ff00)
 ![Git](https://img.shields.io/badge/Git-0c0c0c?style=flat-square&logo=git&logoColor=b8ff00)
-![C++](https://img.shields.io/badge/C++-0c0c0c?style=flat-square&logo=cplusplus&logoColor=b8ff00)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0c0c0c?style=flat-square&logo=githubactions&logoColor=b8ff00)
 ![Streamlit](https://img.shields.io/badge/Streamlit-0c0c0c?style=flat-square&logo=streamlit&logoColor=b8ff00)
 
 ---
+
 
 ### `04` — GitHub activity
 
