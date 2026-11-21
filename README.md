@@ -3,7 +3,7 @@
 
 # Hariharan Bhaskaran
 
-### AI/ML · Data Engineering · Software Engineering
+### AI ML · Big Data · Software Development
 
 **Building AI systems that go beyond demos.**
 
