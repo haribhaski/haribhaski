@@ -9,26 +9,12 @@
 
 
 
-<div align="center">
-
-  <a href="https://www.linkedin.com/in/hariharanbhaskaran28/">
-    <img src="https://img.shields.io/badge/LinkedIn-0c0c0c?style=for-the-badge&amp;logo=linkedin&amp;logoColor=b8ff00" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:haribhaski@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0c0c0c?style=for-the-badge&amp;logo=gmail&amp;logoColor=b8ff00" alt="Email"/>
-  </a>
-  <a href="https://github.com/haribhaski">
-    <img src="https://img.shields.io/badge/GitHub-0c0c0c?style=for-the-badge&amp;logo=github&amp;logoColor=b8ff00" alt="GitHub"/>
-  </a>
-
-</div>
-
 
 <a href="https://www.linkedin.com/in/hariharanbhaskaran28/">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg"
-       alt="LinkedIn"
-       width="30"
-       height="30">
+  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg"
+       width="35"
+       height="35"
+       alt="LinkedIn"/>
 </a>
 [![Email](https://img.shields.io/badge/Email-0c0c0c?style=for-the-badge&logo=gmail&logoColor=b8ff00)](mailto:haribhaski@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-0c0c0c?style=for-the-badge&logo=github&logoColor=b8ff00)](https://github.com/haribhaski)
